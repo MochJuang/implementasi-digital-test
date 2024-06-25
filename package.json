@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongodb": "^3.7.4",
+    "mongoose": "^8.4.3"
+  },
+  "name": "impelentasi-digital-test",
+  "version": "1.0.0",
+  "description": "for home test pt impelentasi digital",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/infrastructure/web/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MochJuang/implementasi-digital-test.git"
+  },
+  "author": "MochJuang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MochJuang/implementasi-digital-test/issues"
+  },
+  "homepage": "https://github.com/MochJuang/implementasi-digital-test#readme"
+}
